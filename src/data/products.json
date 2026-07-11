@@ -1,42 +1,40 @@
 [
-  {
-    "id": 1,
-    "name": "Floor Cleaner",
-    "price": 120
-  },
-  {
-    "id": 2,
-    "name": "Glass Cleaner",
-    "price": 180
-  },
-  {
-    "id": 3,
-    "name": "Toilet Cleaner",
-    "price": 150
-  },
-  {
-    "id": 4,
-    "name": "Dish Wash Liquid",
-    "price": 95
-  },
-  {
-    "id": 5,
-    "name": "Hand Wash Gel",
-    "price": 110
-  },
-  {
-    "id": 6,
-    "name": "Surface Disinfectant",
-    "price": 220
-  },
-  {
-    "id": 7,
-    "name": "Bathroom Cleaner",
-    "price": 165
-  },
-  {
-    "id": 8,
-    "name": "Multi-Purpose Cleaner",
-    "price": 140
-  }
+  { "name": "FLORA TOILET CLEANER 500 ML", "price": 35 },
+  { "name": "FLORA TOILET CLEANER 1 LTR", "price": 60 },
+  { "name": "FLORA BATHROOM CLEANER 500 ML", "price": 35 },
+  { "name": "FLORA DISHWASH PREMIUM GEL 500 ML", "price": 40 },
+  { "name": "FLORA MOPS FLOOR CLEANER", "price": 35 },
+  { "name": "FLORA GLASS CLEANER 500 ML", "price": 50 },
+  { "name": "FLORA BLACK DEO FLOOR A GRADE 400 ML", "price": 35 },
+  { "name": "FLORA BLACK DEO FLOOR A GRADE 1 LTR", "price": 60 },
+  { "name": "FLORA LIQUID DETERGENT 1 LTR", "price": 80 },
+  { "name": "FLORA MATIC LIQUID DETERGENT 1 LTR", "price": 115 },
+  { "name": "FLORA FABRIC CONDITIONER 1 LTR", "price": 120 },
+  { "name": "FLORA FABRIC CONDITIONER 500 ML", "price": 65 },
+  { "name": "FLORA HANDWASH 500 ML PREMIUM", "price": 55 },
+  { "name": "FLORA HANDWASH 1 LTR", "price": 75 },
+  { "name": "FLORA WHITE FLOOR CLEANER 1 LTR", "price": 23.5 },
+  { "name": "FLORA BLACK FLOOR CLEANER 1 LTR", "price": 23.5 },
+  { "name": "FLORA DISHWASH LIQUID", "price": 23.5 },
+  { "name": "FLORA TILES CLEANER 1 LTR", "price": 30 },
+  { "name": "FLORA BLEACHING WATER", "price": 15 },
+  { "name": "FLORA GREEN FLOOR CLEANER 200 ML", "price": 32 },
+  { "name": "FLORA GREEN FLOOR CLEANER 500 ML", "price": 150 },
+  { "name": "FLORA SCALEGONE POWDER", "price": 40 },
+  { "name": "FLORA DISHWASH PREMIUM GEL 1 LTR", "price": 58 },
+  { "name": "FLORA DISHWASH PREMIUM GEL 3 LTR", "price": 130 },
+  { "name": "FLORA DISHWASH", "price": 88.5 },
+  { "name": "FLORA DISHWASH GOLD", "price": 95 },
+  { "name": "FLORA DISHWASH GREEN", "price": 95 },
+  { "name": "FLORA FLOOR CLEANERS", "price": 88.5 },
+  { "name": "PERFUMED FLOOR CLEANER", "price": 88.5 },
+  { "name": "LIQUID SOAP", "price": 130 },
+  { "name": "TOILET CLEANER", "price": 230 },
+  { "name": "MOPS FLOOR CLEANER (LIZOL TYPE)", "price": 230 },
+  { "name": "DETERGENT LIQUID", "price": 300 },
+  { "name": "MATIC DETERGENT LIQUID", "price": 410 },
+  { "name": "GLASS CLEANER", "price": 270 },
+  { "name": "HANDWASH (ROSE, DETTOL, LEMON)", "price": 288 },
+  { "name": "BLEACHING WATER", "price": 75 },
+  { "name": "200 ML ROOM FRESHNER", "price": 90 }
 ]

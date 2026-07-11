@@ -29,23 +29,20 @@ async function seedAdmin() {
 }
 
 async function seedProducts() {
-  const existingCount = await Product.countDocuments();
-  if (existingCount > 0) {
-    console.log(`Database already has ${existingCount} products. Skipping product seed.`);
-    return;
-  }
-
   const filePath = resolve(process.cwd(), "src/data/products.json");
   const seedData = JSON.parse(readFileSync(filePath, "utf-8")) as {
     name: string;
     price: number;
   }[];
 
+  const deleted = await Product.deleteMany({});
   await Product.insertMany(
     seedData.map((item) => ({ name: item.name, price: item.price }))
   );
 
-  console.log(`Seeded ${seedData.length} products successfully.`);
+  console.log(
+    `Replaced products: removed ${deleted.deletedCount}, inserted ${seedData.length}.`
+  );
 }
 
 async function seed() {
