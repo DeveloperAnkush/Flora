@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Floor Cleaner",
+    "price": 120
+  },
+  {
+    "id": 2,
+    "name": "Glass Cleaner",
+    "price": 180
+  },
+  {
+    "id": 3,
+    "name": "Toilet Cleaner",
+    "price": 150
+  },
+  {
+    "id": 4,
+    "name": "Dish Wash Liquid",
+    "price": 95
+  },
+  {
+    "id": 5,
+    "name": "Hand Wash Gel",
+    "price": 110
+  },
+  {
+    "id": 6,
+    "name": "Surface Disinfectant",
+    "price": 220
+  },
+  {
+    "id": 7,
+    "name": "Bathroom Cleaner",
+    "price": 165
+  },
+  {
+    "id": 8,
+    "name": "Multi-Purpose Cleaner",
+    "price": 140
+  }
+]
